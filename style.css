@@ -1,0 +1,20 @@
+h1{
+    font-variant-position: super;
+}
+
+th{
+    font-weight: 200;
+    color: rgb(230, 8, 82);
+    font-family: fantasy;
+    background-color: peachpuff;
+    padding: 5px;
+
+}
+
+table{
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    border-width: 2PX;
+    border-style: solid;
+    border-color: rgb(230, 8, 82);
+}
